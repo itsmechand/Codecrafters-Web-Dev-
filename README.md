@@ -8,3 +8,5 @@
 
 #Task 3:
 A simple website having similar homepage that of Netflix using using HTML and CSS.
+
+Video :  https://screenrec.com/share/pEZrJU8Qhn
